@@ -1,0 +1,1 @@
+args = ["ffmpeg", "-apply_trc", "iec61966_2_1", "-i", input_file, output_file]
